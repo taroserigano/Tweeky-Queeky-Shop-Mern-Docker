@@ -261,15 +261,11 @@ After running `npm run data:import`:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👤 Author
 
 **Taro Serigano**
 - GitHub: [@taroserigano](https://github.com/taroserigano)
-- Repository: [MERN-E-Commerce-ReduxTOOL-Kit-MongoDB](https://github.com/taroserigano/MERN-E-Commerce-ReduxTOOL-Kit-MongoDB)
 
 ## 🙏 Acknowledgments
 
